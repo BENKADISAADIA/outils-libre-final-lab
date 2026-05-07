@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pricing & Discount Engine Lab
 
 ## Overview
@@ -294,3 +295,4 @@ When contributing to this project:
 ## License
 
 This project is provided for educational purposes. Feel free to use and modify for learning.
+>>>>>>> c05c5bc (first submission)
